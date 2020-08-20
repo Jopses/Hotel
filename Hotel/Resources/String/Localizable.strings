@@ -1,0 +1,13 @@
+
+// MARK: - Base
+
+"error" = "Error";
+"ok" = "Ok";
+"cancel" = "Cancel";
+"done" = "Done";
+
+// MARK: - Title
+
+"stars" = "Stars";
+"distance" = "Distance";
+"suites_availability" = "Suites availability";

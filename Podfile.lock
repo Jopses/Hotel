@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (5.2.2)
+  - KeychainSwift (19.0.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - R.swift (5.2.2):
+    - R.swift.Library (~> 5.2.0)
+  - R.swift.Library (5.2.0)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SwiftFormat/CLI (0.44.17)
+  - SwiftLint (0.40.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - KeychainSwift
+  - Moya
+  - R.swift
+  - SDWebImage
+  - SwiftFormat/CLI (~> 0.44.17)
+  - SwiftLint
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - KeychainSwift
+    - Moya
+    - R.swift
+    - R.swift.Library
+    - SDWebImage
+    - SwiftFormat
+    - SwiftLint
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  R.swift: 7c52cdc57a66840ffe6cbd8a823d732059d42a32
+  R.swift.Library: 5ba4f1631300caf9a4d890186930da85d540769d
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SwiftFormat: 3b5caa6389b2b9adbc00e133b3ccc8c6e687a6a4
+  SwiftLint: 4154893c73a4c52d6240195507eb7a3e3c64087e
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 6cbba99badbd31119154d07afef6dcfd3001b3f7
+
+COCOAPODS: 1.10.0.beta.1
